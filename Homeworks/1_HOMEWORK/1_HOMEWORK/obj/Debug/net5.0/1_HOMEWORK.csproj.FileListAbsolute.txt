@@ -1,0 +1,16 @@
+C:\Users\NinoGachechiladze\Desktop\ITAcademyCSHarp\Homeworks\1_HOMEWORK\1_HOMEWORK\bin\Debug\net5.0\1_HOMEWORK.exe
+C:\Users\NinoGachechiladze\Desktop\ITAcademyCSHarp\Homeworks\1_HOMEWORK\1_HOMEWORK\bin\Debug\net5.0\1_HOMEWORK.deps.json
+C:\Users\NinoGachechiladze\Desktop\ITAcademyCSHarp\Homeworks\1_HOMEWORK\1_HOMEWORK\bin\Debug\net5.0\1_HOMEWORK.runtimeconfig.json
+C:\Users\NinoGachechiladze\Desktop\ITAcademyCSHarp\Homeworks\1_HOMEWORK\1_HOMEWORK\bin\Debug\net5.0\1_HOMEWORK.runtimeconfig.dev.json
+C:\Users\NinoGachechiladze\Desktop\ITAcademyCSHarp\Homeworks\1_HOMEWORK\1_HOMEWORK\bin\Debug\net5.0\1_HOMEWORK.dll
+C:\Users\NinoGachechiladze\Desktop\ITAcademyCSHarp\Homeworks\1_HOMEWORK\1_HOMEWORK\bin\Debug\net5.0\1_HOMEWORK.pdb
+C:\Users\NinoGachechiladze\Desktop\ITAcademyCSHarp\Homeworks\1_HOMEWORK\1_HOMEWORK\obj\Debug\net5.0\1_HOMEWORK.csproj.AssemblyReference.cache
+C:\Users\NinoGachechiladze\Desktop\ITAcademyCSHarp\Homeworks\1_HOMEWORK\1_HOMEWORK\obj\Debug\net5.0\1_HOMEWORK.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NinoGachechiladze\Desktop\ITAcademyCSHarp\Homeworks\1_HOMEWORK\1_HOMEWORK\obj\Debug\net5.0\1_HOMEWORK.AssemblyInfoInputs.cache
+C:\Users\NinoGachechiladze\Desktop\ITAcademyCSHarp\Homeworks\1_HOMEWORK\1_HOMEWORK\obj\Debug\net5.0\1_HOMEWORK.AssemblyInfo.cs
+C:\Users\NinoGachechiladze\Desktop\ITAcademyCSHarp\Homeworks\1_HOMEWORK\1_HOMEWORK\obj\Debug\net5.0\1_HOMEWORK.csproj.CoreCompileInputs.cache
+C:\Users\NinoGachechiladze\Desktop\ITAcademyCSHarp\Homeworks\1_HOMEWORK\1_HOMEWORK\obj\Debug\net5.0\1_HOMEWORK.dll
+C:\Users\NinoGachechiladze\Desktop\ITAcademyCSHarp\Homeworks\1_HOMEWORK\1_HOMEWORK\obj\Debug\net5.0\refint\1_HOMEWORK.dll
+C:\Users\NinoGachechiladze\Desktop\ITAcademyCSHarp\Homeworks\1_HOMEWORK\1_HOMEWORK\obj\Debug\net5.0\1_HOMEWORK.pdb
+C:\Users\NinoGachechiladze\Desktop\ITAcademyCSHarp\Homeworks\1_HOMEWORK\1_HOMEWORK\obj\Debug\net5.0\1_HOMEWORK.genruntimeconfig.cache
+C:\Users\NinoGachechiladze\Desktop\ITAcademyCSHarp\Homeworks\1_HOMEWORK\1_HOMEWORK\obj\Debug\net5.0\ref\1_HOMEWORK.dll
