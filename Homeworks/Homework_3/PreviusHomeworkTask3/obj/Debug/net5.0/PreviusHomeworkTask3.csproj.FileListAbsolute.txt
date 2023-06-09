@@ -1,0 +1,16 @@
+C:\Users\NinoGachechiladze\Desktop\ITAcademyCSHarp\Homeworks\Homework_3\PreviusHomeworkTask3\bin\Debug\net5.0\PreviusHomeworkTask3.exe
+C:\Users\NinoGachechiladze\Desktop\ITAcademyCSHarp\Homeworks\Homework_3\PreviusHomeworkTask3\bin\Debug\net5.0\PreviusHomeworkTask3.deps.json
+C:\Users\NinoGachechiladze\Desktop\ITAcademyCSHarp\Homeworks\Homework_3\PreviusHomeworkTask3\bin\Debug\net5.0\PreviusHomeworkTask3.runtimeconfig.json
+C:\Users\NinoGachechiladze\Desktop\ITAcademyCSHarp\Homeworks\Homework_3\PreviusHomeworkTask3\bin\Debug\net5.0\PreviusHomeworkTask3.runtimeconfig.dev.json
+C:\Users\NinoGachechiladze\Desktop\ITAcademyCSHarp\Homeworks\Homework_3\PreviusHomeworkTask3\bin\Debug\net5.0\PreviusHomeworkTask3.dll
+C:\Users\NinoGachechiladze\Desktop\ITAcademyCSHarp\Homeworks\Homework_3\PreviusHomeworkTask3\bin\Debug\net5.0\PreviusHomeworkTask3.pdb
+C:\Users\NinoGachechiladze\Desktop\ITAcademyCSHarp\Homeworks\Homework_3\PreviusHomeworkTask3\obj\Debug\net5.0\PreviusHomeworkTask3.csproj.AssemblyReference.cache
+C:\Users\NinoGachechiladze\Desktop\ITAcademyCSHarp\Homeworks\Homework_3\PreviusHomeworkTask3\obj\Debug\net5.0\PreviusHomeworkTask3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NinoGachechiladze\Desktop\ITAcademyCSHarp\Homeworks\Homework_3\PreviusHomeworkTask3\obj\Debug\net5.0\PreviusHomeworkTask3.AssemblyInfoInputs.cache
+C:\Users\NinoGachechiladze\Desktop\ITAcademyCSHarp\Homeworks\Homework_3\PreviusHomeworkTask3\obj\Debug\net5.0\PreviusHomeworkTask3.AssemblyInfo.cs
+C:\Users\NinoGachechiladze\Desktop\ITAcademyCSHarp\Homeworks\Homework_3\PreviusHomeworkTask3\obj\Debug\net5.0\PreviusHomeworkTask3.csproj.CoreCompileInputs.cache
+C:\Users\NinoGachechiladze\Desktop\ITAcademyCSHarp\Homeworks\Homework_3\PreviusHomeworkTask3\obj\Debug\net5.0\PreviusHomeworkTask3.dll
+C:\Users\NinoGachechiladze\Desktop\ITAcademyCSHarp\Homeworks\Homework_3\PreviusHomeworkTask3\obj\Debug\net5.0\refint\PreviusHomeworkTask3.dll
+C:\Users\NinoGachechiladze\Desktop\ITAcademyCSHarp\Homeworks\Homework_3\PreviusHomeworkTask3\obj\Debug\net5.0\PreviusHomeworkTask3.pdb
+C:\Users\NinoGachechiladze\Desktop\ITAcademyCSHarp\Homeworks\Homework_3\PreviusHomeworkTask3\obj\Debug\net5.0\PreviusHomeworkTask3.genruntimeconfig.cache
+C:\Users\NinoGachechiladze\Desktop\ITAcademyCSHarp\Homeworks\Homework_3\PreviusHomeworkTask3\obj\Debug\net5.0\ref\PreviusHomeworkTask3.dll
