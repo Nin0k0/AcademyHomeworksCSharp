@@ -1,0 +1,15 @@
+ [
+  {
+    "CurrencyCode": "USD",
+    "Rate": 2.7
+  },
+  {
+    "CurrencyCode": "GEL",
+    "Rate": 1
+  },
+  {
+    "CurrencyCode": "EUR",
+    "Rate": 3.1
+  }
+  ]
+
