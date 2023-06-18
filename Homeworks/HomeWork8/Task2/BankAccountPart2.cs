@@ -11,16 +11,24 @@ namespace Task2
 
         public void TransferFunds(BankAccount target, Decimal amount)
         {
-            Withdraw(amount,out bool canBeWithdrawned);
-            if (canBeWithdrawned)
+            if (amount < 0)
             {
-                var amountForTarget = CurrencyConverter.ConvertedCurrencyAmount(this.Balance,target.Balance,amount);
-                target.Deposit(amountForTarget);
+                Console.WriteLine("We won't give you power to steal money");
             }
             else
             {
-                Console.WriteLine($"Not Abled to transfer this amount of money! You can Only Transfer Max {this.Balance.Amount}");
+                Withdraw(amount, out bool canBeWithdrawned);
+                if (canBeWithdrawned)
+                {
+                    var amountForTarget = CurrencyConverter.ConvertedCurrencyAmount(this.Balance, target.Balance, amount);
+                    target.Deposit(amountForTarget);
+                }
+                else
+                {
+                    Console.WriteLine($"Not Abled to transfer this amount of money! You can Only Transfer Max {this.Balance.Amount}");
+                }
             }
+            
             
         }
     }

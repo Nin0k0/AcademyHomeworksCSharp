@@ -18,31 +18,41 @@ namespace Task2
         public void Deposit(Decimal balance)
         {
             //To Avoid Overflow Expetion
-
-            try
+            if(balance > 0)
             {
-                Balance.Amount += balance;
-            }
-            catch (Exception)
-            {
+                try
+                {
+                    Balance.Amount += balance;
+                }
+                catch (Exception)
+                {
 
-                Console.WriteLine("Impossible to Deposit this amount!");
+                    Console.WriteLine("Impossible to Deposit this amount!");
+                }
             }
+            
             
         }
 
         public void Withdraw(Decimal balance, out bool canBeWithDrawned)
-        {
-            if (Balance.Amount >= balance)
-            {
-                Balance.Amount -= balance;
-                canBeWithDrawned = true;
+        {   if(balance > 0) {
+
+                if (Balance.Amount >= balance)
+                {
+                    Balance.Amount -= balance;
+                    canBeWithDrawned = true;
+                }
+                else
+                {
+                    Console.WriteLine($"Not Enogh money! You can windrow maximum {Balance.Amount}");
+                    canBeWithDrawned = false;
+                }
             }
             else
             {
-                Console.WriteLine($"Not Enogh money! You can windrow maximum {Balance.Amount}");
-                canBeWithDrawned = false;
+                canBeWithDrawned=false;
             }
+            
         }
 
         public Currency BalanceCheck()
