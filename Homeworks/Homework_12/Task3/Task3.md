@@ -1,53 +1,14 @@
 ﻿# მჯობინება
 
+- მიუხედავად, იმისა რომ LIST-ში ჩაინსერტება და მასზე იტერაცია, ბევრად უფრო სწრაფია,
+ჩემთვის უფრო მოსაწონი მაინც DIctionary ტიპის ინფორმაცია იქნება, როცა დიდი რაოდენობით მონაცემებთან მექნება საქმე,რადგან
+key value pair-ის სისტემა მაძლევს კომფორტულ უპირატესობას პირდაპირ მივწვდე სასურველ მონაცემს, მაგალითად თუ მექნება მონაცემები, სადაც key იქნება რომელიმე პიროვნების პირადო ნომეირ,
+ხოლო value ამ პიროვნების ობიექტი მთელი ინფორმაციით, უფრო კარგი დასამუშავებელი იქნება, ვიდრე პიროვნებების სია სადაც მომიწევს პირადი ნომრის ძებნა და იტერაცია. 
 
-## Array
+- ასევე, გააჩნია მონაცემების მიზანს, თუ რას უნდა მოემსახურონ ისინი, თუ ჩემი ბექენდ აპლიკაცია ბილეთების გაყიდვას ამუშავებს და მიწევს რომ ონლაინ ბილეთების რიგი შევქმნა, რატქმაუნდა
+შევქმნი Queueს და მივანიჭებ უპირატესობას.
 
-- Fixed-size collection of elements.
-- Fast access by index.
-- Not dynamically resizable.
+- საბოლოოდ, რომ დავასკვნა, ჩემი აზრით მონაცემების რაოდენობაზე მნიშვნელოვანი მათი დანიშნულების განსაზღვრაა, რომ შემდგომში განვსაზღვროთ შესაბამისი ტიპი. შეიძლება ერთმა ტიპმა კონკრეტული
+ალგორითმისთვის იმუშავოს სწრაფად და შესანიშნავად, მეორე შემთხვევაში კი ზედმეტი იყოს.
 
-## ArrayList
 
-- Dynamically resizable array.
-- Provides flexibility in adding and removing elements.
-- Slower performance compared to strongly-typed collections.
-
-## List
-
-- Generic list implementation.
-- Dynamically resizable.
-- Faster performance and lower memory overhead compared to ArrayList.
-
-## Dictionary
-
-- Key-value pair collection.
-- Fast lookup by key.
-- Useful for quick retrieval of data based on unique keys.
-
-## SortedList
-
-- Key-value pair collection with sorted keys.
-- Efficient for maintaining a sorted collection of data.
-- Slower insertion and removal compared to Dictionary.
-
-## HashSet
-
-- Unordered collection of unique elements.
-- Fast membership checks and element addition.
-- Not suitable for maintaining sorted or ordered data.
-
-## Hashtable
-
-- Legacy key-value pair collection (use Dictionary instead if possible).
-- Similar to Dictionary but slower performance and lacks type safety.
-
-## Stack
-
-- LIFO (Last-In-First-Out) collection.
-- Useful for implementing algorithms with a stack-based approach.
-
-## Queue
-
-- FIFO (First-In-First-Out) collection.
-- Useful for implementing algorithms with a queue-based approach.
