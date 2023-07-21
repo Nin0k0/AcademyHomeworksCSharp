@@ -117,7 +117,7 @@ namespace Homework_17
         public T? SingleOrDefault(Func<T, bool> predicate)
         {
             T result = default(T);
-            bool found = false;
+            
 
             foreach (T item in array)
             {
@@ -125,7 +125,7 @@ namespace Homework_17
                 {
 
                     result = item;
-                    found = true;
+                   
                     break;
                 }
             }
